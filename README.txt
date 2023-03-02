@@ -1,0 +1,2 @@
+i have an exam in the morning and im freaking out so i have to turn it in now.
+i have no time to figure out github pages or fix the tiny issue in my code that refuses to show an error or work properly
